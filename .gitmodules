@@ -7,4 +7,4 @@
 	url = https://github.com/colinpshea/GLAMMGoF
 [submodule "MatchMakeR"]
 	path = MatchMakeR
-	url = https://github.com/colinpshea/MatchMakeR
+	url = https://github.com/colinpshea/coralesce
